@@ -1,0 +1,14 @@
+.clearBtn {
+    width: 350px;
+    height: 80px;
+    background: #ffe1cd;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clearBtn:hover {
+    cursor: pointer;
+    background: #BBF8E3;
+}

@@ -1,0 +1,24 @@
+.buttonContainer {
+    background: #FFCDD2;
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.operator {
+    background: #FF4081;
+}
+
+.buttonContainer:hover {
+    background: #BBF8E3;
+    cursor: pointer;
+}
+
+.operator:hover {
+    background: #BBF8E3;
+    cursor: pointer;
+}
